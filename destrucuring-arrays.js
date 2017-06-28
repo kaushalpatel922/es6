@@ -1,4 +1,4 @@
-//Destructuring Arrays
+//Destructuring Array
 
 // Initialize the variables `one`, `two` and `three
 // with colors from the `things`array
